@@ -32,7 +32,9 @@ It analyzes news claims and returns a **verdict (True / False / Uncertain)** wit
 
 ### 1. Clone repo
 
-<pre class="overflow-visible! px-0!" data-start="1321" data-end="1420"><div class="relative w-full mt-4 mb-1"><div class=""><div class="relative"><div class="h-full min-h-0 min-w-0"><div class="h-full min-h-0 min-w-0"><div class="border border-token-border-light border-radius-3xl corner-superellipse/1.1 rounded-3xl"><div class="h-full w-full border-radius-3xl bg-token-bg-elevated-secondary corner-superellipse/1.1 overflow-clip rounded-3xl lxnfua_clipPathFallback"><div class="pointer-events-none absolute inset-x-4 top-12 bottom-4"><div class="pointer-events-none sticky z-40 shrink-0 z-1!"><div class="sticky bg-token-border-light"></div></div></div><div class="relative"><div class=""><div class="relative z-0 flex max-w-full"><div id="code-block-viewer" dir="ltr" class="q9tKkq_viewer cm-editor z-10 light:cm-light dark:cm-light flex h-full w-full flex-col items-stretch ͼs ͼ16"><div class="cm-scroller"><pre class="cm-content q9tKkq_readonly m-0"><code><span class="ͼ10">git</span><span> clone https://github.com/your-username/fake-news-detector.git</span><br/><span class="ͼ10">cd</span><span> fake-news-detector</span></code></pre></div></div></div></div></div></div></div></div></div><div class=""><div class=""></div></div></div></div></div></pre>
+git clone https://github.com/maria2021831011/fake-news-detector_langgraph.git
+
+cd  fake-news-detector 
 
 ### 2. Create virtual environment
 
